@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+    font-family:'Poppins';
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 60px;
+    /* text-align: center; */
+    /* align-items: center; */
+}
+.movbut img{
+    height: 120px;
+}
+.movbut{
+    background: transparent;
+    color: black;
+    border: 2px solid white;
+    border-radius: 120px;
+    padding:20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.gamebut{
+    align-items: center;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.moveIcon{
+    height: 60px;
+}
+.resetbut{
+    background-color: aqua;
+    height: 60px;
+    /* padding: 10px; */
+    width: 200px;
+}
